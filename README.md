@@ -1,2 +1,1 @@
-# latihan_crud
-Latihan CRUD menggunakan PHP &amp; MYSQL
+# Tugas Pemrograman Web CRUD 2
